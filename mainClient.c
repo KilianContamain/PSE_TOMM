@@ -5,7 +5,7 @@
 *
 *	Description :
 *	Ce fichier contient le code du programe principale coté
-*   seveur du system TOMM
+*   client du systeme TOMM
 *
 *
 *
@@ -22,9 +22,22 @@
 
 void main(){
 
+    // Initialisation de la connection au Serveur
 
+    // Connection au Serveur
+    // Identification
 
+    // Connecté début des commandes
+    // while(true)
+    ////Saisie des commandes
+    //// Envoi au Serveur
+    //// Reception des réponses
+    //// Affichage des réponses
+    // fin de session
 
+    // fin de connection
+
+    // terminaison du programme
 
 }
 

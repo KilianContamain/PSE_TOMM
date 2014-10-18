@@ -5,7 +5,7 @@
 *
 *	Description :
 *	Ce fichier contient le code du programe principale coté
-*   seveur du system TOMM
+*   seveur du systeme TOMM
 *
 *
 *
@@ -21,10 +21,15 @@
 // Fichiers Headers des fonctions annexes :
 
 void main(){
+    // Ouverture des connections
 
+    // while(true)
+    //// Accepte connections
 
+    //// Lance une instance de dialogue avec le client
 
+    //// finDesConnections
 
-
+    // Fermeture des connections
 }
 
