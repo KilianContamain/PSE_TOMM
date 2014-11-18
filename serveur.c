@@ -312,6 +312,7 @@ void create_count(void){									// Fonction de creation de compte
 	}
 	printf("%d",en_tete.nb_usr);
 	printf("Fermeture de comptes.txt\n");
+}
 
 
 void effacercompte(void){			//n'arrive pas  se lancer je ne sais pas pourquoi...						
@@ -472,7 +473,6 @@ if(pthread_mutex_unlock(&verrou) != 0){
 	if(close(comptes) == -1){
 		erreur_IO("close");
 	}
-}
 }
 
 
